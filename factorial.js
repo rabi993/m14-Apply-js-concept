@@ -27,13 +27,40 @@
 // console.log('num! = result');
 // console.log( number,'! =',checkFact);
 
+// console.log('num! = result');
+// const num = 0;
+// let i =num;
+// let result=1;
+// while (i>=1){
+//      result= result*i;
+//      i--;
+// }
+// factorial=result;
+// console.log( num,'! =',factorial);
+
 console.log('num! = result');
 const num = 5;
-let i =num;
+let i =1;
 let result=1;
-while (i>=1){
+console.log( 0,'! =',1);
+// if(i=0){
+//      const num = 0;
+//      let i =num;
+//      let result=1;
+//      while (i>=1){
+//           result= result*i;
+//           i--;
+//      }
+//      factorial=result;
+//      console.log( num,'! =',factorial);
+// }
+while (i<=num){
      result= result*i;
-     i--;
+     i++;
+     number=i-1;
+     factorial=result;
+     console.log( number,'! =',factorial);
 }
-factorial=result;
-console.log( num,'! =',factorial);
+
+
+// dgfjhkjkseftgyhfjjjjjjjjjjjjjjftjdf
